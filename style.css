@@ -19,3 +19,13 @@
     backdrop-filter: blur(3px) !important;
     border-radius: 20px !important;
 }
+
+/* Remove background for lists */
+.monaco-list-rows {
+    background: transparent !important;
+}
+
+/* List hover */
+.monaco-list-row:hover {
+    background: rgba(0, 0, 0, .2) !important;
+}
