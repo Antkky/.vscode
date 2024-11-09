@@ -38,3 +38,22 @@
     font-size: 14px !important;
     margin-bottom: 16px !important;
 }
+
+/* Command palette's input box placeholder. */
+.monaco-inputbox input::placeholder {
+    color: rgba(255, 255, 255, .3) !important;
+}
+
+/* .monaco-workbench label {
+    color: #fff !important;
+    font-size: 14px !important;
+} */
+
+/* Container that holds the VS Code home icon. */
+.editor-group-watermark {
+    max-width: none !important;
+}
+
+.command-center-center {
+    width:  auto !important;
+}
