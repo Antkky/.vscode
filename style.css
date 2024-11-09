@@ -5,3 +5,17 @@
     font-size: 1.1rem;
     content: '🚀';
 }
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+    display: none !important;
+}
+
+/* Command Palette */
+.quick-input-widget {
+    transform: translateY(-50%) !important;
+    top: 50% !important;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, .45) !important;
+    padding: 10px 10px 18px 10px !important;
+    backdrop-filter: blur(3px) !important;
+    border-radius: 20px !important;
+}
