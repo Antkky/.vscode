@@ -68,11 +68,10 @@
     justify-content: flex-start !important;
     flex-grow: 0 !important;
     width: auto !important;
-    display: none;
+    display: none; !important
 }
 /* Search Label */
 .search-label {
-    font-family: 'Geist Mono' !important;
     font-size: 14px !important;
     color: #fff;
     display: block;
