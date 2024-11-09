@@ -68,13 +68,13 @@
     justify-content: flex-start !important;
     flex-grow: 0 !important;
     width: auto !important;
-    display: none; !important
+    display: none !important;
 }
 /* Search Label */
 .search-label {
     font-size: 14px !important;
     color: #fff;
-    display: block;
+    display: block !important;
 }
 
 /* Search icon */
