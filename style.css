@@ -68,7 +68,7 @@
     justify-content: flex-start !important;
     flex-grow: 0 !important;
     width: auto !important;
-    display: none !important;
+    content: "Apexa Code";
 }
 /* Search Label */
 .search-label {
