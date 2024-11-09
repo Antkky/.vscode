@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "git.ignoreMissingGitWarning": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "vscode_custom_css.imports": [
+        "https://raw.githubusercontent.com/glennraya/vscode-settings-json/refs/heads/main/custom-vscode.css",
+        "https://raw.githubusercontent.com/glennraya/vscode-settings-json/refs/heads/main/vscode-script.js"
+    ],
+    "window.menuBarVisibility": "compact",
+    "files.exclude": {
+        ".vscode": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "./tailwind.config.ts": true,
+        "./postcss.config.js": true,
+        "**/node_modules": true,
+        "**/.gitattributes": true,
+        "**/.gitignore": true,
+        "**/package-lock.json": true,
+        "postcss.config.js": true,
+        "tailwind.config.ts": false,
+        "tsconfig.json": true,
+        "tsconfig.node.json": true,
+        "vite.config.ts": true,
+        "**/Cargo.toml": true,
+        "**/Cargo.lock": true,
+        "**/target": true,
+        "**/vite-env.d.ts": true
+    },
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"],
+    "glassit.alpha": 175,
+    "editor.renderWhitespace": "none",
+    "glassit.force_sway": true
+}
