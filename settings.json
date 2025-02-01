@@ -25,7 +25,6 @@
         ".VSCodeCounter/": true,
         "dist/": true,
         "package.json": true,
-        "index.html": true
     },
 
     "editor.copyWithSyntaxHighlighting": false,
@@ -43,12 +42,12 @@
     "files.trimFinalNewlines": true,
     //"workbench.editor.showTabs": "none",
     "editor.minimap.enabled": false,
-    "editor.lineNumbers": "off",
+    "editor.lineNumbers": "on",
     "editor.guides.indentation": false,
 
     "breadcrumbs.enabled": false,
     "scm.diffDecorations": "none",
-    "editor.hover.delay": 1500,
+    "editor.hover.delay": 500,
     "editor.hover.enabled": true,
     "editor.matchBrackets": "never",
     "workbench.tips.enabled": true,
