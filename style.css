@@ -67,6 +67,7 @@
     justify-content: flex-start !important;
     flex-grow: 0 !important;
     width: auto !important;
+    display: hidden;
 }
 /* Search Label */
 .search-label {
